@@ -33,7 +33,6 @@ Add your repository link here.
 - Tailwind CSS
 - DaisyUI
 - Better Auth
-- SQLite using better-sqlite3
 
 ## Folder Structure
 
@@ -80,7 +79,6 @@ Example:
 BETTER_AUTH_SECRET=replace-with-a-long-random-secret
 BETTER_AUTH_URL=http://localhost:3000
 NEXT_PUBLIC_APP_URL=http://localhost:3000
-SQLITE_DB_PATH=./sqlite.db
 GOOGLE_CLIENT_ID=your-google-client-id
 GOOGLE_CLIENT_SECRET=your-google-client-secret
 ```
