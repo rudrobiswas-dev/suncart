@@ -1,0 +1,32 @@
+{
+  "name": "suncart-summer-essentials-js",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "auth:generate": "npx auth@latest generate",
+    "auth:migrate": "npx auth@latest migrate"
+  },
+  "dependencies": {
+    "better-auth": "^1.6.9",
+    "better-sqlite3": "latest",
+    "daisyui": "latest",
+    "dotenv": "^17.4.2",
+    "kysely": "^0.28.17",
+    "mongodb": "^7.2.0",
+    "next": "latest",
+    "pg": "^8.20.0",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "latest",
+    "dotenv-cli": "^11.0.0",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "tailwindcss": "latest"
+  }
+}
