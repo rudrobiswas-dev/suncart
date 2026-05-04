@@ -56,10 +56,6 @@ src/
     auth-client.js
 ```
 
-## Environment Variables
-
-Create a `.env.local` file from `.env.example`.
-
 ```bash
 cp .env.example .env.local
 ```
