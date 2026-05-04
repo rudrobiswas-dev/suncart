@@ -9,7 +9,7 @@ export default function Hero() {
           <h1 className="text-4xl font-black leading-tight text-slate-900 md:text-6xl">Stay cool, protected, and ready for summer.</h1>
           <p className="mt-5 max-w-xl text-lg text-slate-600">Discover sunscreens, bottles, fans, sunglasses, towels, and more products made for bright sunny days.</p>
           <div className="mt-8 flex flex-wrap gap-3">
-            <Link href="/products" className="btn btn-primary text-white">Shop Products</Link>
+            <Link href="/products" className="btn btn-primary text-red">Shop Products</Link>
             <a href="#tips" className="btn btn-outline">Summer Care Tips</a>
           </div>
         </div>
