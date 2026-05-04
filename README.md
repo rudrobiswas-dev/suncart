@@ -1,15 +1,6 @@
 # SunCart – Summer Essentials Store
 
 A JavaScript/JSX version of the SunCart assignment project built with Next.js App Router, Tailwind CSS, DaisyUI, and Better Auth.
-
-## Live URL
-
-Add your deployed link here.
-
-## GitHub Repository
-
-Add your repository link here.
-
 ## Features
 
 - Responsive home page
@@ -107,6 +98,15 @@ Then open:
 ```txt
 http://localhost:3000
 ```
+
+## Live URL
+
+suncart-roan-two.vercel.app
+
+## GitHub Repository
+
+https://github.com/rudrobiswas-dev/suncart
+
 
 ## Suggested Commit Plan
 
